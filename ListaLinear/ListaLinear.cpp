@@ -120,6 +120,7 @@ void inserirElemento()
 
 }
 
+// func para excluir elemento
 void excluirElemento()
 {
 	int x = 0;
